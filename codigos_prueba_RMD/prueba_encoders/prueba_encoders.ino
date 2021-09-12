@@ -10,8 +10,8 @@ dispuestos en cada una de las ruedas del RMD.
 */
 #include <Encoder.h>
 
-Encoder encoder_der(23, 5);          //Corresponde a la estructura "encoder_der(PIN1, PIN2)" que lee los pulsos desde del encoder de la rueda derecha (invertir orden de ser necesario)
-Encoder encoder_izq(19, 18);         //Corresponde a la estructura "encoder_izq(PIN1, PIN2)" que lee los pulsos desde del encoder de la rueda izquierda (invertir orden de ser necesario)
+Encoder encoder_der(23, 5);          //Corresponde a la estructura "encoder_der(PIN1, PIN2)" que lee los pulsos desde del encoder de la rueda derecha (invertir PINES de ser necesario)
+Encoder encoder_izq(19, 18);         //Corresponde a la estructura "encoder_izq(PIN1, PIN2)" que lee los pulsos desde del encoder de la rueda izquierda (invertir PINES de ser necesario)
 
 void setup() {
   Serial.begin(9600);
