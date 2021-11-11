@@ -1,1 +1,1 @@
-# PlataformaExperimental_CFRM
+# PMA: Plataforma multi-agentes
