@@ -2,8 +2,8 @@
 Repositorio de la plataforma experimental multi-agentes
 ## Descripcion de la plataforma
 
-<img align="right" src="./imagenes/openPMA_escenario.png" width="450" title="openPMA CAD">
-<img align="right" src="./imagenes/plataforma_experimental.JPG" width="450" alt="accessibility text" title="openPMA">
+<img align="right" src="./imagenes/openPMA_escenario.png" width="500" title="openPMA CAD">
+<img align="right" src="./imagenes/plataforma_experimental.JPG" width="500" alt="accessibility text" title="openPMA">
 
 La plataforma experimental consta de tres partes fundamentales:
 
