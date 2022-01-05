@@ -13,7 +13,7 @@ La plataforma experimental consta de tres partes fundamentales:
 
 La superficie es de goma eva, para esta aplicacion se utiliza en color negro, y tiene la capacidad de montarse y desmontarse con facilidad.
 Por otra parte, la trayectoria de navegacion corresponde a un segmente continuo, pintado en color blanco sobre la superficie.
-Finalmente, la flota de robots moviles esta compuesta por robots de traccion diferencial (DDMR) identicos, los cuales, tienen la capacidad de seguir trayectorias abiertas o cerradas; mantener una distancia fija respecto a su robot predecesor; seguir referencias de velocidad; comunicarse con otros agentes utilizando el protocolo de comunicacion UDP a traves de un punto de acceso WiFi; entre otras.
+Finalmente, la flota de robots moviles esta compuesta por robots identicos, de traccion diferencial (DDMR), los cuales, tienen la capacidad de seguir trayectorias abiertas o cerradas; mantener una distancia fija respecto a su robot predecesor; seguir referencias de velocidad; comunicarse con otros agentes utilizando el protocolo de comunicacion UDP a traves de un punto de acceso WiFi; entre otras.
 
 ## Prueba de Funcionamiento
 
